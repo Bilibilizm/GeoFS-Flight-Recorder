@@ -36,4 +36,4 @@ GeoFS Flight Recorder is a user script used to record and manage flight data in 
 •JSON file format: The imported JSON flight plan file must be in a valid JSON format.
 
 
-* [Join our discordant group to learn about the latest situation or make suggestions](https://discord.gg/4dGHsNqgCH)*
+*[Join our discordant group to learn about the latest situation or make suggestions](https://discord.gg/4dGHsNqgCH)*
