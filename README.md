@@ -1,6 +1,9 @@
 **GeoFS Flight Recorder**
 
 
+![666](https://github.com/user-attachments/assets/ff8946f9-92e3-4f67-8eaa-07f547f7d833)
+
+
 
 
 GeoFS Flight Recorder is a user script used to record and manage flight data in GeoFS Flight Simulator. It allows users to import, view, edit, and delete flight records, and supports multiple language interfaces.
