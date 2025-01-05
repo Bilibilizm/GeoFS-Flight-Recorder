@@ -13,13 +13,13 @@
 
     // 初始化变量
     let menuOpen = false;
-    let language = 'English'; // 默认语言
-    let flights = JSON.parse(localStorage.getItem('flights')) || []; // 从 localStorage 加载飞行记录
+    let language = 'English'; 
+    let flights = JSON.parse(localStorage.getItem('flights')) || [];
 
     // 语言文本
     const texts = {
         'English': {
-            'menuTitle': 'Flight Recorder',
+            'menuTitle': 'GeoFS Flight Recorder',
             'language': 'Language',
             'previousFlights': 'Previous Flights',
             'import': 'Import',
@@ -49,7 +49,7 @@
             'maxImages': 'You can upload up to 6 images!',
         },
         '简体中文': {
-            'menuTitle': '飞行记录器',
+            'menuTitle': 'GeoFS 飞行记录器',
             'language': '语言',
             'previousFlights': '历史飞行',
             'import': '导入',
@@ -79,7 +79,7 @@
             'maxImages': '最多只能上传6张图片！',
         },
         '繁體中文': {
-            'menuTitle': '飛行記錄器',
+            'menuTitle': 'GeoFS 飛行記錄器',
             'language': '語言',
             'previousFlights': '歷史飛行',
             'import': '導入',
