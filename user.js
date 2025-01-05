@@ -243,7 +243,7 @@
 
     // 监听键盘事件
     document.addEventListener('keydown', (e) => {
-        if (e.key === 'R' || e.key === 'r') {
+        if (e.key === 'K' || e.key === 'k') {
             menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
             menuOpen = !menuOpen;
         }
