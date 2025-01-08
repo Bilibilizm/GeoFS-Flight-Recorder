@@ -23,6 +23,7 @@ GeoFS Flight Recorder is a user script used to record and manage flight data in 
 
 
 **usage method**
+
 •Open menu: On the GeoFS flight simulator page, press the K key on the keyboard to open or close the flight recorder menu.
 
 •Import flight records: Click the "Import" button in the menu, fill out the form and submit it to import new flight records.
@@ -30,6 +31,7 @@ GeoFS Flight Recorder is a user script used to record and manage flight data in 
 •View, edit, and delete flight records: Click the corresponding button in the historical flight record list in the menu to view, edit, or delete flight records.
 
 **matters needing attention**
+
 •ICAO code format: The entered ICAO code must be 4 uppercase letters.
 
 •Time format: The input time must be in HH: MM format.
